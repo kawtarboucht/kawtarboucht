@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###About Me
+### About Me
 
 Hello there! My name is Kawtar, and I'm a fresh graduate with a passion for computer science and building projects. I am excited to share my journey in the world of technology through my GitHub profile. This README provides an overview of who I am and what I love to do. Feel free to explore and connect with me!
 
